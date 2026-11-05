@@ -1,0 +1,6 @@
+{
+  "name": "Skribbl.io - Multiplayer Drawing & Guessing Game",
+  "description": "Full-stack real-time multiplayer drawing and guessing game with custom rooms, interactive canvas, live chat guessing, hints, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
